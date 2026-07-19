@@ -48,8 +48,6 @@
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 </p>
 
@@ -143,7 +141,7 @@
 
 - 🥇 **AlgoUniversity Technology Fellowship 2024** — Top 4,000 of 20,000+ applicants (top 20%)
 - ⚔️ **LeetCode Knight** — Top 6% globally, 100+ day streak
-- 🌟 **3-Star CodeChef** — Consistent Div-2/Div-3 performer
+- 🌟 **2-Star CodeChef** — Consistent Div-2/Div-3 performer
 - 💼 **Internship @ ModelSuite.ai** — Shipped production SaaS dashboards
 
 ---
