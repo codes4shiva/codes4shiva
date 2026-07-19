@@ -32,43 +32,6 @@
 - 🌱 Currently exploring **Microservices**, **Redis**, **Docker**, **Elasticsearch**, and advanced **System Design**
 - 💬 Ask me about **Java**, **Spring Boot**, **React**, **REST APIs**, or **DSA**
 
----
-
-# 💡 Expertise
-
-<p>
-
-✅ Java
-
-✅ Spring Boot
-
-✅ Spring Security
-
-✅ Spring Data JPA
-
-✅ Hibernate
-
-✅ React
-
-✅ TypeScript
-
-✅ PostgreSQL
-
-✅ REST APIs
-
-✅ JWT Authentication
-
-✅ Redis
-
-✅ Elasticsearch
-
-✅ Docker
-
-✅ System Design
-
-✅ Data Structures & Algorithms
-
-</p>
 
 ---
 
@@ -208,19 +171,7 @@ https://github.com/codes4shiva/recruitment_dashboard
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codes4shiva&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codes4shiva&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codes4shiva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
 
 # 🏅 Achievements
 
