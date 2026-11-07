@@ -61,18 +61,6 @@
 
 ---
 
-## ⚙ Backend
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/MapStruct-000000?style=for-the-badge"/>
-</p>
-
----
 
 ## 🗄 Databases
 
